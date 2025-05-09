@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @aravind  
+- 👀 I’m interested in cybersecurity, ethical hacking.
+- 🌱 I’m currently learning advanced penetration testing techniques, bug bounty methodologies, and SIEM development.  
+- 💞️ I’m looking to collaborate on cybersecurity tools, Python-based automation scripts, and machine learning integrations for threat detection.  
+- 📫 How to reach me: arvdchinthakindi@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I’m building a home-based SOC lab with Splunk, aiming to replicate enterprise-grade detection capabilities from scratch.
