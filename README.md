@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aravind  
-- 👀 I’m interested in cybersecurity, ethical hacking, blue teaming.
-- 🌱 I’m currently learning SIEM, automation, and IPS/IDS.  
-- 💞️ I’m looking to collaborate on cybersecurity tools, Python-based automation scripts, and machine learning integrations for threat detection.  
+- 👀 I’m interested in cyber space and Hacking *Ethically Of Course.
+- 🌱 I’m currently learning SIEM, IAM, and IPS/IDS.  
 - 📫 How to reach me: arvdchinthakindi@gmail.com
-- ⚡ Fun fact: I’m building a home-based SOC lab with Splunk, aiming to replicate enterprise-grade detection capabilities from scratch.
-- my Blog: https://arvdch.github.io
+- ⚡ Fun fact: I’m building a home-based SOC lab with Splunk, aiming to simulate enterprise-grade detection capabilities from scratch.
+- Wanna  read my Blog 👉 https://arvdch.github.io
