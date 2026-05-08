@@ -4,4 +4,4 @@
 - 📫 How to reach me: arvdchinthakindi@gmail.com
 - ⚡ Fun fact: I’m building a home-based SOC lab with Splunk, aiming to simulate enterprise-grade detection capabilities from scratch.
 - Wanna  read my Blog 👉 https://arvdch.github.io
-- Resume 👉 https://github.com/arvdch/arvdch/blob/main/Aravind_Chinthakindi_Resume_.pdf
+- Resume 👉 https://arvdch.github.io/assets/Aravind_Chinthakindi_Resume_.pdf
