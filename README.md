@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber space and Hacking *Ethically Of Course.
 - 🌱 I’m currently learning SIEM, IAM, and IPS/IDS.  
 - 📫 How to reach me: arvdchinthakindi@gmail.com
-- ⚡ Fun fact: I’m building a home-based SOC lab with Splunk, aiming to simulate enterprise-grade detection capabilities from scratch.
+- ⚡ Fun fact: I’m working on something intresting and will let u know when its done.
 - Wanna  read my Blog 👉 https://arvdch.github.io
 - Resume 👉 https://arvdch.github.io/assets/Aravind_Chinthakindi_Resume_.pdf
 - LinkedIn 👉 https://www.linkedin.com/in/aravind-chinthakindi/
