@@ -5,3 +5,4 @@
 - ⚡ Fun fact: I’m building a home-based SOC lab with Splunk, aiming to simulate enterprise-grade detection capabilities from scratch.
 - Wanna  read my Blog 👉 https://arvdch.github.io
 - Resume 👉 https://arvdch.github.io/assets/Aravind_Chinthakindi_Resume_.pdf
+- LinkedIn 👉 https://www.linkedin.com/in/aravind-chinthakindi/
